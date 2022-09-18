@@ -15,7 +15,7 @@ const style ={
 }
 
 const notify = () => {
-  toast.info('Sign-in with a google account and then open the website in another tab and sign-in with a different google account to get chatting!', {position:toast.POSITION.TOP_CENTER})
+  toast.info('Sign-in with a google account and then open the website in another browser and sign-in with a different google account to get chatting!', {position:toast.POSITION.TOP_CENTER})
 }
 
 function App() {
